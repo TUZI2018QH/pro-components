@@ -15,7 +15,7 @@ import {
 } from '@ant-design/pro-utils';
 import type { TablePaginationConfig } from 'antd-v4';
 import { ConfigProvider, Spin, Table } from 'antd-v4';
-import 'antd-v4/dist/antd.css'
+// import 'antd-v4/dist/antd.css'
 import type {
   GetRowKey,
   SorterResult,

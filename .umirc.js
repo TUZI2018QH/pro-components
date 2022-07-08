@@ -34,7 +34,7 @@ export default {
     [
       'import',
       {
-        libraryName: 'antd',
+        libraryName: 'antd-v4',
         libraryDirectory: 'es',
         style: true,
       },
