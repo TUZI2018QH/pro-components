@@ -1,7 +1,7 @@
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProProvider, ProTable } from '@ant-design/pro-components';
-import type { InputRef } from 'antd';
-import { Input, Space, Tag } from 'antd';
+import type { InputRef } from 'antd-v4';
+import { Input, Space, Tag } from 'antd-v4';
 import React, { useContext, useRef, useState } from 'react';
 
 const valueEnum = {

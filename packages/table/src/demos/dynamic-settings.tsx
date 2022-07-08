@@ -15,7 +15,7 @@ import {
   ProTable,
   useDebounceFn,
 } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import { useRef, useState } from 'react';
 
 const valueTypeArray = [

@@ -1,7 +1,7 @@
 ﻿import { EllipsisOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable } from '@ant-design/pro-components';
-import { Button, Result, Switch } from 'antd';
+import { Button, Result, Switch } from 'antd-v4';
 import type { ErrorInfo } from 'react';
 import React, { useState } from 'react';
 

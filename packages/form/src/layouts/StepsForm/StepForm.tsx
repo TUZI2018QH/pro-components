@@ -1,4 +1,4 @@
-import type { FormInstance, FormProps } from 'antd';
+import type { FormInstance, FormProps } from 'antd-v4';
 import type { StepProps } from 'rc-steps/lib/Step';
 import { noteOnce } from 'rc-util/lib/warning';
 import { useContext, useEffect, useImperativeHandle, useRef } from 'react';

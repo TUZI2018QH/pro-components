@@ -1,6 +1,6 @@
 import type { ProColumns } from '@ant-design/pro-components';
 import { EditableProTable, ProCard, ProFormField } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import React, { useState } from 'react';
 
 type DataSourceType = {

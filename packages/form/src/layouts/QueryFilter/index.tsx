@@ -1,8 +1,8 @@
 /* eslint-disable no-param-reassign */
 import { useIntl } from '@ant-design/pro-provider';
 import { isBrowser, useMountMergeState } from '@ant-design/pro-utils';
-import type { FormItemProps, RowProps } from 'antd';
-import { Col, ConfigProvider, Divider, Form, Row } from 'antd';
+import type { FormItemProps, RowProps } from 'antd-v4';
+import { Col, ConfigProvider, Divider, Form, Row } from 'antd-v4';
 import type { FormInstance, FormProps } from 'antd/lib/form/Form';
 import classNames from 'classnames';
 import RcResizeObserver from 'rc-resize-observer';

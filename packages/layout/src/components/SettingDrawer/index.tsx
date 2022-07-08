@@ -11,7 +11,7 @@ import {
   setFetchMethod as setFetch,
 } from '@umijs/ssr-darkreader';
 import { useUrlSearchParams } from '@umijs/use-params';
-import { Alert, Button, ConfigProvider, Divider, Drawer, List, message, Switch } from 'antd';
+import { Alert, Button, ConfigProvider, Divider, Drawer, List, message, Switch } from 'antd-v4';
 import omit from 'omit.js';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useEffect, useRef, useState } from 'react';

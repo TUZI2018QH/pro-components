@@ -5,7 +5,7 @@
   ProFormList,
   ProFormText,
 } from '@ant-design/pro-components';
-import { Form } from 'antd';
+import { Form } from 'antd-v4';
 import type { NamePath } from 'antd/es/form/interface';
 
 const Demo = () => {

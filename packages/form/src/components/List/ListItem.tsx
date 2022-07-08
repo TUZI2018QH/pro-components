@@ -1,6 +1,6 @@
 ﻿import { CopyOutlined, DeleteOutlined } from '@ant-design/icons';
-import type { ButtonProps, FormInstance } from 'antd';
-import { Spin, Tooltip } from 'antd';
+import type { ButtonProps, FormInstance } from 'antd-v4';
+import { Spin, Tooltip } from 'antd-v4';
 import type { FormListFieldData, FormListOperation, FormListProps } from 'antd/lib/form/FormList';
 import toArray from 'rc-util/lib/Children/toArray';
 import set from 'rc-util/lib/utils/set';

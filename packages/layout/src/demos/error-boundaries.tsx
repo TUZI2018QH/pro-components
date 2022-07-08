@@ -1,5 +1,5 @@
 ﻿import { PageContainer, ProLayout } from '@ant-design/pro-components';
-import { Button, Result } from 'antd';
+import { Button, Result } from 'antd-v4';
 import type { ErrorInfo } from 'react';
 import React, { useState } from 'react';
 

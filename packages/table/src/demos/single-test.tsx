@@ -1,7 +1,7 @@
 import { PlusOutlined } from '@ant-design/icons';
 import type { ActionType, ProColumns } from '@ant-design/pro-components';
 import { ProTable, TableDropdown } from '@ant-design/pro-components';
-import { Button, Input, Space, Tag } from 'antd';
+import { Button, Input, Space, Tag } from 'antd-v4';
 import { useRef } from 'react';
 import request from 'umi-request';
 

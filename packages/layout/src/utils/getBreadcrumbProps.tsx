@@ -1,4 +1,4 @@
-import type { BreadcrumbProps as AntdBreadcrumbProps } from 'antd';
+import type { BreadcrumbProps as AntdBreadcrumbProps } from 'antd-v4';
 import type H from 'history';
 import pathToRegexp from 'path-to-regexp';
 import type { BasicLayoutProps } from '../BasicLayout';

@@ -1,7 +1,7 @@
 import { MenuOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { DragSortTable } from '@ant-design/pro-components';
-import { message } from 'antd';
+import { message } from 'antd-v4';
 import { useState } from 'react';
 
 const data = [

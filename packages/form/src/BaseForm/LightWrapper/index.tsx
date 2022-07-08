@@ -5,7 +5,7 @@ import {
   FilterDropdown,
   useMountMergeState,
 } from '@ant-design/pro-utils';
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext, useMemo, useState } from 'react';
 import type { LightFilterFooterRender, Placement } from '../../interface';

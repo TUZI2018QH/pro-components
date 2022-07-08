@@ -1,7 +1,7 @@
 import Field from '@ant-design/pro-field';
 import '@testing-library/jest-dom';
 import { act, fireEvent, render as reactRender } from '@testing-library/react';
-import { Button, Input } from 'antd';
+import { Button, Input } from 'antd-v4';
 import { mount, render } from 'enzyme';
 import moment from 'moment';
 import React, { useState } from 'react';

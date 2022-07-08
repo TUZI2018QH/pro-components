@@ -1,6 +1,6 @@
 import { isDeepEqualReact, merge, ProFormContext } from '@ant-design/pro-utils';
-import type { FormItemProps } from 'antd';
-import { Form } from 'antd';
+import type { FormItemProps } from 'antd-v4';
+import { Form } from 'antd-v4';
 import type { NamePath } from 'antd/lib/form/interface';
 import get from 'rc-util/lib/utils/get';
 import set from 'rc-util/lib/utils/set';

@@ -1,4 +1,4 @@
-﻿import { Checkbox, ConfigProvider, Space, Spin } from 'antd';
+﻿import { Checkbox, ConfigProvider, Space, Spin } from 'antd-v4';
 import type { CheckboxGroupProps } from 'antd/lib/checkbox';
 import classNames from 'classnames';
 import React, { useContext, useImperativeHandle, useRef } from 'react';

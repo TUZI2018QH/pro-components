@@ -1,4 +1,4 @@
-import type { InputNumberProps } from 'antd';
+import type { InputNumberProps } from 'antd-v4';
 import React from 'react';
 import type { ProFormFieldItemProps } from '../../interface';
 import ProFormField from '../Field';

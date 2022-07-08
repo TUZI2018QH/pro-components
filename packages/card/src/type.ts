@@ -1,4 +1,4 @@
-import type { TabPaneProps, TabsProps } from 'antd';
+import type { TabPaneProps, TabsProps } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { ReactNode } from 'react';
 

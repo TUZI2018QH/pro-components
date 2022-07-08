@@ -9,7 +9,7 @@ import {
   ProFormUploadButton,
   ProFormUploadDragger,
 } from '@ant-design/pro-components';
-import { Button, Input } from 'antd';
+import { Button, Input } from 'antd-v4';
 import { useRef } from 'react';
 
 const Demo = () => {

@@ -1,6 +1,6 @@
 import { runFunction } from '@ant-design/pro-utils';
-import type { RadioGroupProps, RadioProps } from 'antd';
-import { Radio } from 'antd';
+import type { RadioGroupProps, RadioProps } from 'antd-v4';
+import { Radio } from 'antd-v4';
 import React from 'react';
 import { createField } from '../../BaseForm/createField';
 import type { ProFormFieldItemProps, ProFormFieldRemoteProps } from '../../interface';

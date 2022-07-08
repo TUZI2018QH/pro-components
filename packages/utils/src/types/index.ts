@@ -16,7 +16,7 @@ import type {
   SwitchProps,
   TimeRangePickerProps,
   TreeSelectProps,
-} from 'antd';
+} from 'antd-v4';
 import type { RangePickerProps } from 'antd/lib/date-picker';
 import type { PasswordProps, TextAreaProps } from 'antd/lib/input';
 import type { ProFieldRequestData, ProSchema } from '../typing';

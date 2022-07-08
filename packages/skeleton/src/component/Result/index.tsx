@@ -1,4 +1,4 @@
-import { Card, Skeleton, Space } from 'antd';
+import { Card, Skeleton, Space } from 'antd-v4';
 import React from 'react';
 import { PageHeaderSkeleton } from '../List';
 

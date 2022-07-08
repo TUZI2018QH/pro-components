@@ -337,7 +337,7 @@ ProFormInstance 与 antd 的 form 相比增加了一些能力。
 ```tsx | pure
 import type { ProFormInstance } from '@ant-design/pro-components';
 import { ProForm, ProFormDatePicker, ProFormText } from '@ant-design/pro-components';
-import { Button, message } from 'antd';
+import { Button, message } from 'antd-v4';
 import moment from 'moment';
 import { useRef } from 'react';
 

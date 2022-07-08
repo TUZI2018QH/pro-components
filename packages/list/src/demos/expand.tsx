@@ -1,5 +1,5 @@
 import { ProList } from '@ant-design/pro-components';
-import { Button, Progress, Space, Tag } from 'antd';
+import { Button, Progress, Space, Tag } from 'antd-v4';
 import type { ReactText } from 'react';
 import { useState } from 'react';
 

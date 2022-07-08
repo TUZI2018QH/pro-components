@@ -1,5 +1,5 @@
 import { ProList } from '@ant-design/pro-components';
-import { Button, Space, Tag } from 'antd';
+import { Button, Space, Tag } from 'antd-v4';
 
 const dataSource = [
   {

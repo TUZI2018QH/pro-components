@@ -1,6 +1,6 @@
 import { EllipsisOutlined, RightOutlined } from '@ant-design/icons';
 import { StatisticCard } from '@ant-design/pro-components';
-import { Space } from 'antd';
+import { Space } from 'antd-v4';
 
 const { Statistic } = StatisticCard;
 

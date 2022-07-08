@@ -1,6 +1,6 @@
 ﻿import { useRefFunction } from '@ant-design/pro-utils';
-import type { FormItemProps, SpaceProps } from 'antd';
-import { Input, Space } from 'antd';
+import type { FormItemProps, SpaceProps } from 'antd-v4';
+import { Input, Space } from 'antd-v4';
 import type { GroupProps } from 'antd/lib/input';
 import toArray from 'rc-util/lib/Children/toArray';
 import React, { useCallback, useImperativeHandle, useMemo } from 'react';

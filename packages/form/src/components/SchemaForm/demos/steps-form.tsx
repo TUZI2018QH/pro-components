@@ -1,6 +1,6 @@
 ﻿import type { FormInstance, ProFormColumnsType } from '@ant-design/pro-components';
 import { BetaSchemaForm } from '@ant-design/pro-components';
-import { message } from 'antd';
+import { message } from 'antd-v4';
 import { useRef } from 'react';
 
 const valueEnum = {

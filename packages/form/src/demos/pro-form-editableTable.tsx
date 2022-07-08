@@ -1,6 +1,6 @@
 import type { ProColumns } from '@ant-design/pro-components';
 import { EditableProTable, ProForm, ProFormText } from '@ant-design/pro-components';
-import { Input, message } from 'antd';
+import { Input, message } from 'antd-v4';
 import React, { useState } from 'react';
 
 const waitTime = (time: number = 100) => {

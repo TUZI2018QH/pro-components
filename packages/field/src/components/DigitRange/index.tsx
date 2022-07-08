@@ -1,4 +1,4 @@
-import { Input, InputNumber } from 'antd';
+import { Input, InputNumber } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React from 'react';
 import type { ProFieldFC } from '../../index';

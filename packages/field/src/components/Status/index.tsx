@@ -1,4 +1,4 @@
-import { Badge } from 'antd';
+import { Badge } from 'antd-v4';
 import type { CSSProperties } from 'react';
 import React from 'react';
 import './index.less';

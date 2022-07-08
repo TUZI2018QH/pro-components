@@ -1,6 +1,6 @@
 import type { ProFieldFCMode } from '@ant-design/pro-components';
 import Field from '@ant-design/pro-field';
-import { Descriptions, Radio, Space, Switch } from 'antd';
+import { Descriptions, Radio, Space, Switch } from 'antd-v4';
 import moment from 'moment';
 import { useState } from 'react';
 

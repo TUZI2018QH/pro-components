@@ -1,6 +1,6 @@
 import { EllipsisOutlined } from '@ant-design/icons';
 import { PageContainer, ProCard } from '@ant-design/pro-components';
-import { Button, Dropdown, Menu } from 'antd';
+import { Button, Dropdown, Menu } from 'antd-v4';
 
 export default () => (
   <div

@@ -1,4 +1,4 @@
-import { Input } from 'antd';
+import { Input } from 'antd-v4';
 import React from 'react';
 import type { ProFieldFC } from '../../index';
 

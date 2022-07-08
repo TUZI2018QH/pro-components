@@ -1,7 +1,7 @@
 import ProTable from '@ant-design/pro-table';
 import { render } from '@testing-library/react';
-import type { FormInstance } from 'antd';
-import { Input } from 'antd';
+import type { FormInstance } from 'antd-v4';
+import { Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import MockDate from 'mockdate';
 import React, { createRef } from 'react';

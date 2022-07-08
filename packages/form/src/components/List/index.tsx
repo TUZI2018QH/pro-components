@@ -1,6 +1,6 @@
 ﻿import { CopyOutlined, DeleteOutlined } from '@ant-design/icons';
 import { ProFormContext } from '@ant-design/pro-utils';
-import { ConfigProvider, Form } from 'antd';
+import { ConfigProvider, Form } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { FormListFieldData, FormListOperation, FormListProps } from 'antd/lib/form/FormList';
 import type { NamePath } from 'antd/lib/form/interface';

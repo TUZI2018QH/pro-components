@@ -4,7 +4,7 @@ import type {
   ProSchema,
   SearchConvertKeyFn,
 } from '@ant-design/pro-utils';
-import type { FormItemProps, RowProps, SpaceProps } from 'antd';
+import type { FormItemProps, RowProps, SpaceProps } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { ColProps } from 'antd/lib/grid/col';
 import type React from 'react';

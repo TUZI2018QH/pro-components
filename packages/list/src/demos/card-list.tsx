@@ -1,5 +1,5 @@
 import { ProFormRadio, ProFormSwitch, ProList } from '@ant-design/pro-components';
-import { Progress, Tag } from 'antd';
+import { Progress, Tag } from 'antd-v4';
 import { useState } from 'react';
 
 const data = [

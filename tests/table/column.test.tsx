@@ -1,5 +1,5 @@
 import ProTable from '@ant-design/pro-table';
-import { ConfigProvider, Table } from 'antd';
+import { ConfigProvider, Table } from 'antd-v4';
 import { mount } from 'enzyme';
 import moment from 'moment';
 import type { RequestOptionsType } from 'packages/utils/src/typing';

@@ -1,6 +1,6 @@
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable } from '@ant-design/pro-components';
-import { Button, DatePicker, Space, Table } from 'antd';
+import { Button, DatePicker, Space, Table } from 'antd-v4';
 
 const { RangePicker } = DatePicker;
 

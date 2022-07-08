@@ -11,7 +11,7 @@ import {
   ProFormUploadDragger,
   StepsForm,
 } from '@ant-design/pro-components';
-import { ConfigProvider, Input } from 'antd';
+import { ConfigProvider, Input } from 'antd-v4';
 import enUS from 'antd/lib/locale/en_US';
 import { LightWrapper } from '../BaseForm';
 

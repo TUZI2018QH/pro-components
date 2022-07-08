@@ -1,4 +1,4 @@
-import { ConfigProvider, Space } from 'antd';
+import { ConfigProvider, Space } from 'antd-v4';
 import React, { useContext, useImperativeHandle } from 'react';
 import type { ProFieldFC } from '../../index';
 

@@ -1,4 +1,4 @@
-import { List, Select, Switch, Tooltip } from 'antd';
+import { List, Select, Switch, Tooltip } from 'antd-v4';
 import React from 'react';
 import type { ProSettings } from '../../defaultSettings';
 import defaultSettings from '../../defaultSettings';

@@ -1,6 +1,6 @@
 import { RightOutlined } from '@ant-design/icons';
 import { LabelIconTip } from '@ant-design/pro-utils';
-import { ConfigProvider, Grid, Tabs } from 'antd';
+import { ConfigProvider, Grid, Tabs } from 'antd-v4';
 import classNames from 'classnames';
 import omit from 'omit.js';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';

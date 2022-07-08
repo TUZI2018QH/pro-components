@@ -6,8 +6,8 @@ import {
 } from '@ant-design/icons';
 import { useIntl } from '@ant-design/pro-provider';
 import { runFunction, useRefFunction } from '@ant-design/pro-utils';
-import type { TableColumnType } from 'antd';
-import { Checkbox, ConfigProvider, Popover, Space, Tooltip, Tree } from 'antd';
+import type { TableColumnType } from 'antd-v4';
+import { Checkbox, ConfigProvider, Popover, Space, Tooltip, Tree } from 'antd-v4';
 import type { CheckboxChangeEvent } from 'antd/lib/checkbox';
 import type { DataNode } from 'antd/lib/tree';
 import classNames from 'classnames';

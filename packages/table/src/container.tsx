@@ -1,5 +1,5 @@
 import type { ProFormInstance } from '@ant-design/pro-form';
-import type { TableColumnType } from 'antd';
+import type { TableColumnType } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import { noteOnce } from 'rc-util/lib/warning';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';

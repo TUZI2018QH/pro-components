@@ -16,8 +16,8 @@ import {
   usePrevious,
 } from '@ant-design/pro-utils';
 import { useUrlSearchParams } from '@umijs/use-params';
-import type { FormInstance, FormItemProps, FormProps } from 'antd';
-import { ConfigProvider, Form, Spin } from 'antd';
+import type { FormInstance, FormItemProps, FormProps } from 'antd-v4';
+import { ConfigProvider, Form, Spin } from 'antd-v4';
 import type { NamePath } from 'antd/lib/form/interface';
 import get from 'rc-util/lib/utils/get';
 import { default as namePathSet, default as set } from 'rc-util/lib/utils/set';

@@ -1,6 +1,6 @@
 import { intlMap as allIntlMap, useIntl } from '@ant-design/pro-provider';
-import type { InputNumberProps } from 'antd';
-import { InputNumber, Popover } from 'antd';
+import type { InputNumberProps } from 'antd-v4';
+import { InputNumber, Popover } from 'antd-v4';
 import omit from 'omit.js';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useMemo } from 'react';

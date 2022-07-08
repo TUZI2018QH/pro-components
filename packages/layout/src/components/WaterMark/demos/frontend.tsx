@@ -2,7 +2,7 @@
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable, TableDropdown, WaterMark } from '@ant-design/pro-components';
-import { Tooltip } from 'antd';
+import { Tooltip } from 'antd-v4';
 
 const valueEnum = {
   0: 'close',

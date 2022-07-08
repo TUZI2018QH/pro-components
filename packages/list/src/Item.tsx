@@ -1,7 +1,7 @@
 import { RightOutlined } from '@ant-design/icons';
 import type { ProCardProps } from '@ant-design/pro-card';
 import ProCard from '@ant-design/pro-card';
-import { Avatar, ConfigProvider, List, Skeleton } from 'antd';
+import { Avatar, ConfigProvider, List, Skeleton } from 'antd-v4';
 import type { ListGridType } from 'antd/lib/list';
 import type { ExpandableConfig } from 'antd/lib/table/interface';
 import classNames from 'classnames';

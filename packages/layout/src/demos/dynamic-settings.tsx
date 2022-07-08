@@ -1,7 +1,7 @@
 ﻿import { LikeOutlined, UserOutlined } from '@ant-design/icons';
 import type { ProSettings } from '@ant-design/pro-components';
 import { PageContainer, ProLayout, SettingDrawer } from '@ant-design/pro-components';
-import { Avatar, Button, Descriptions, Result, Space, Statistic } from 'antd';
+import { Avatar, Button, Descriptions, Result, Space, Statistic } from 'antd-v4';
 import { useState } from 'react';
 import defaultProps from './_defaultProps';
 

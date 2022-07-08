@@ -1,5 +1,5 @@
-import type { SliderSingleProps } from 'antd';
-import { Slider } from 'antd';
+import type { SliderSingleProps } from 'antd-v4';
+import { Slider } from 'antd-v4';
 import type { SliderBaseProps, SliderRangeProps } from 'antd/lib/slider';
 import React from 'react';
 import { createField } from '../../BaseForm/createField';

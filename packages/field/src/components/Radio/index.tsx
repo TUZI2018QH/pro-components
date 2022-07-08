@@ -1,5 +1,5 @@
-﻿import type { RadioGroupProps } from 'antd';
-import { ConfigProvider, Radio, Spin } from 'antd';
+﻿import type { RadioGroupProps } from 'antd-v4';
+import { ConfigProvider, Radio, Spin } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext, useImperativeHandle, useRef } from 'react';
 import type { ProFieldFC } from '../../index';

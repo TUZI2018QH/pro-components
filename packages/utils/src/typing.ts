@@ -1,4 +1,4 @@
-import type { InputProps } from 'antd';
+import type { InputProps } from 'antd-v4';
 import type { FormInstance, FormItemProps } from 'antd/lib/form';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { NamePath } from 'antd/lib/form/interface';

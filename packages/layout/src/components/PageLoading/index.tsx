@@ -1,5 +1,5 @@
-import type { SpinProps } from 'antd';
-import { Spin } from 'antd';
+import type { SpinProps } from 'antd-v4';
+import { Spin } from 'antd-v4';
 import React from 'react';
 
 const PageLoading: React.FC<SpinProps & any> = ({

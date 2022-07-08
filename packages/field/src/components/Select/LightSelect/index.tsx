@@ -1,7 +1,7 @@
 import { SearchOutlined } from '@ant-design/icons';
 import { FieldLabel } from '@ant-design/pro-utils';
-import type { SelectProps } from 'antd';
-import { ConfigProvider, Input, Select } from 'antd';
+import type { SelectProps } from 'antd-v4';
+import { ConfigProvider, Input, Select } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext, useMemo, useState } from 'react';
 import type { ProFieldLightProps } from '../../../index';

@@ -1,8 +1,8 @@
 ﻿import { LoadingOutlined } from '@ant-design/icons';
 import { useIntl } from '@ant-design/pro-provider';
 import { FieldLabel } from '@ant-design/pro-utils';
-import type { RadioGroupProps } from 'antd';
-import { Cascader, ConfigProvider } from 'antd';
+import type { RadioGroupProps } from 'antd-v4';
+import { Cascader, ConfigProvider } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext, useImperativeHandle, useMemo, useRef, useState } from 'react';
 import type { ProFieldFC } from '../../index';

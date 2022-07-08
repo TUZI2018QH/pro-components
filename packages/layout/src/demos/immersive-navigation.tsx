@@ -1,6 +1,6 @@
 import { CrownOutlined, LeftOutlined, SmileOutlined, UserOutlined } from '@ant-design/icons';
 import { ProLayout } from '@ant-design/pro-components';
-import { Avatar, Button, Result, Space, Tag } from 'antd';
+import { Avatar, Button, Result, Space, Tag } from 'antd-v4';
 import { useState } from 'react';
 
 const defaultProps = {

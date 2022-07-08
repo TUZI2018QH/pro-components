@@ -1,6 +1,6 @@
 ﻿import { LabelIconTip, omitUndefined, runFunction, useLatest } from '@ant-design/pro-utils';
-import type { FormInstance, FormProps } from 'antd';
-import { Form } from 'antd';
+import type { FormInstance, FormProps } from 'antd-v4';
+import { Form } from 'antd-v4';
 import omit from 'omit.js';
 import React, { useCallback, useImperativeHandle, useMemo, useRef, useState } from 'react';
 import type { ProFormProps } from '../../layouts';

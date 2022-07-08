@@ -5,8 +5,8 @@ import type {
   SpinProps,
   TabPaneProps,
   TabsProps,
-} from 'antd';
-import { Affix, Breadcrumb, ConfigProvider, PageHeader, Tabs } from 'antd';
+} from 'antd-v4';
+import { Affix, Breadcrumb, ConfigProvider, PageHeader, Tabs } from 'antd-v4';
 import classNames from 'classnames';
 import type { ReactNode } from 'react';
 import React, { useContext, useMemo } from 'react';

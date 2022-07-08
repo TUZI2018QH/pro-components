@@ -1,6 +1,6 @@
 import { DownOutlined, EllipsisOutlined } from '@ant-design/icons';
-import type { MenuItemProps } from 'antd';
-import { Button, ConfigProvider, Dropdown, Menu } from 'antd';
+import type { MenuItemProps } from 'antd-v4';
+import { Button, ConfigProvider, Dropdown, Menu } from 'antd-v4';
 import classnames from 'classnames';
 import React, { useContext } from 'react';
 import './index.less';

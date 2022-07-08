@@ -1,6 +1,6 @@
 import Field from '@ant-design/pro-field';
 import type { ProFieldFCMode } from '@ant-design/pro-utils';
-import { Descriptions } from 'antd';
+import { Descriptions } from 'antd-v4';
 import moment from 'moment';
 
 export default ({ state, plain }: { state: ProFieldFCMode; plain: boolean }) => (

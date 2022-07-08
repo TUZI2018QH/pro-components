@@ -19,7 +19,7 @@ import {
   QueryFilter,
   StepsForm,
 } from '@ant-design/pro-components';
-import { Button, message, Space } from 'antd';
+import { Button, message, Space } from 'antd-v4';
 import { useState } from 'react';
 
 const iconStyles = {

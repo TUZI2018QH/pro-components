@@ -1,7 +1,7 @@
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { LightFilter, ProFormDatePicker, ProTable } from '@ant-design/pro-components';
-import { Badge, Button, Tooltip } from 'antd';
+import { Badge, Button, Tooltip } from 'antd-v4';
 import React, { useState } from 'react';
 
 export type TableListItem = {

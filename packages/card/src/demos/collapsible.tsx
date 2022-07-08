@@ -1,6 +1,6 @@
 import { RightOutlined } from '@ant-design/icons';
 import { ProCard } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import { useState } from 'react';
 
 export default () => {

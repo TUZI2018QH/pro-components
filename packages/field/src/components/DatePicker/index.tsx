@@ -1,7 +1,7 @@
 import { useIntl } from '@ant-design/pro-provider';
 import { FieldLabel, parseValueToMoment } from '@ant-design/pro-utils';
-import type { DatePickerProps } from 'antd';
-import { ConfigProvider, DatePicker } from 'antd';
+import type { DatePickerProps } from 'antd-v4';
+import { ConfigProvider, DatePicker } from 'antd-v4';
 import moment from 'moment';
 import React, { useContext, useState } from 'react';
 import type { ProFieldFC, ProFieldLightProps } from '../../index';

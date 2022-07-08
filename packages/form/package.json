@@ -3,7 +3,7 @@
   "version": "1.70.1",
   "description": "@ant-design/pro-form",
   "keywords": [
-    "antd",
+    "antd-v4",
     "admin",
     "ant-design",
     "ant-design-pro"
@@ -51,7 +51,7 @@
     "@types/lodash.merge": "^4.6.7"
   },
   "peerDependencies": {
-    "antd": ">=4.20.0",
+    "antd-v4": ">=4.20.0",
     "rc-field-form": "^1.22.0",
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"

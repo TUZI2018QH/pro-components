@@ -1,6 +1,6 @@
 ﻿import { useRefFunction } from '@ant-design/pro-utils';
-import type { DrawerProps, FormProps } from 'antd';
-import { ConfigProvider, Drawer } from 'antd';
+import type { DrawerProps, FormProps } from 'antd-v4';
+import { ConfigProvider, Drawer } from 'antd-v4';
 import merge from 'lodash.merge';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import { noteOnce } from 'rc-util/lib/warning';

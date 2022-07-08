@@ -4,7 +4,7 @@ import {
   ProFormDateRangePicker,
   ProFormSelect,
 } from '@ant-design/pro-components';
-import { message } from 'antd';
+import { message } from 'antd-v4';
 
 export default () => {
   return (

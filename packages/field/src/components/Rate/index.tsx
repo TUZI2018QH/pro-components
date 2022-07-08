@@ -1,4 +1,4 @@
-import { Rate } from 'antd';
+import { Rate } from 'antd-v4';
 import React from 'react';
 import type { ProFieldFC } from '../../index';
 

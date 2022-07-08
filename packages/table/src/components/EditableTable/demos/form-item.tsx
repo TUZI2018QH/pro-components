@@ -7,7 +7,7 @@ import {
   ProFormField,
   ProFormRadio,
 } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import React, { useRef, useState } from 'react';
 
 type DataSourceType = {

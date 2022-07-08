@@ -1,6 +1,6 @@
 import type { ProDescriptionsActionType } from '@ant-design/pro-components';
 import { ProDescriptions } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import { useRef } from 'react';
 
 export default () => {

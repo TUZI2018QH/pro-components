@@ -1,5 +1,5 @@
 import { ProDescriptions } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 
 export default () => {
   return (

@@ -1,6 +1,6 @@
 import { LikeOutlined, MessageOutlined, StarOutlined } from '@ant-design/icons';
 import { ProList } from '@ant-design/pro-components';
-import { Button, Tag } from 'antd';
+import { Button, Tag } from 'antd-v4';
 import React from 'react';
 
 const IconText = ({ icon, text }: { icon: any; text: string }) => (

@@ -9,7 +9,7 @@
   ProFormText,
   StepsForm,
 } from '@ant-design/pro-components';
-import { message } from 'antd';
+import { message } from 'antd-v4';
 
 const waitTime = (time: number = 100) => {
   return new Promise((resolve) => {

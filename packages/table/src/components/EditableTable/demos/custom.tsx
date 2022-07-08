@@ -1,8 +1,8 @@
 import { PlusOutlined } from '@ant-design/icons';
 import type { ActionType, ProColumns } from '@ant-design/pro-components';
 import { EditableProTable, ProCard, ProFormField } from '@ant-design/pro-components';
-import type { InputRef } from 'antd';
-import { Button, Form, Input, Space, Tag } from 'antd';
+import type { InputRef } from 'antd-v4';
+import { Button, Form, Input, Space, Tag } from 'antd-v4';
 import React, { useRef, useState } from 'react';
 
 const waitTime = (time: number = 100) => {

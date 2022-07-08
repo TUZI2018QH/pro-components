@@ -7,7 +7,7 @@ import {
   ProFormSelect,
   ProFormText,
 } from '@ant-design/pro-components';
-import { Button, message, Space } from 'antd';
+import { Button, message, Space } from 'antd-v4';
 import { useRef } from 'react';
 
 const waitTime = (time: number = 100) => {

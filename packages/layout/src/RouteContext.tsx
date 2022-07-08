@@ -1,4 +1,4 @@
-import type { BreadcrumbProps } from 'antd';
+import type { BreadcrumbProps } from 'antd-v4';
 import { createContext } from 'react';
 import type { WaterMarkProps } from './components/WaterMark';
 import type { PureSettings } from './defaultSettings';

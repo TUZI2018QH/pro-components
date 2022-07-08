@@ -1,4 +1,4 @@
-import { Card, Skeleton } from 'antd';
+import { Card, Skeleton } from 'antd-v4';
 import React from 'react';
 import useMediaQuery from 'use-media-antd-query';
 import { Line, PageHeaderSkeleton } from '../List';

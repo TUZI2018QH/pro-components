@@ -1,6 +1,6 @@
 import type { IntlType } from '@ant-design/pro-provider';
 import { useIntl } from '@ant-design/pro-provider';
-import { Alert, ConfigProvider, Space } from 'antd';
+import { Alert, ConfigProvider, Space } from 'antd-v4';
 import React, { useContext } from 'react';
 import './index.less';
 

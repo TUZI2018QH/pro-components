@@ -1,7 +1,7 @@
 import { DownOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable } from '@ant-design/pro-components';
-import { Dropdown, Menu, Popconfirm, Space } from 'antd';
+import { Dropdown, Menu, Popconfirm, Space } from 'antd-v4';
 import React from 'react';
 
 export type Member = {

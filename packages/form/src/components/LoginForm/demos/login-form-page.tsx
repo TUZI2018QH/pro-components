@@ -12,7 +12,7 @@ import {
   ProFormCheckbox,
   ProFormText,
 } from '@ant-design/pro-components';
-import { Button, Divider, message, Space, Tabs } from 'antd';
+import { Button, Divider, message, Space, Tabs } from 'antd-v4';
 import type { CSSProperties } from 'react';
 import { useState } from 'react';
 

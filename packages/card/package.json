@@ -3,7 +3,7 @@
   "version": "1.20.12",
   "description": "@ant-design/pro-card",
   "keywords": [
-    "antd",
+    "antd-v4",
     "admin",
     "ant-design",
     "ant-design-pro"
@@ -44,7 +44,7 @@
     "rc-resize-observer": "^0.2.3"
   },
   "peerDependencies": {
-    "antd": ">=4.20.0",
+    "antd-v4": ">=4.20.0",
     "react": ">=16.9.0"
   },
   "publishConfig": {

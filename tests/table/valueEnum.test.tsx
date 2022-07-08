@@ -1,6 +1,6 @@
 import ProProvider from '@ant-design/pro-provider';
 import ProTable from '@ant-design/pro-table';
-import { Input } from 'antd';
+import { Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import { useContext } from 'react';
 import { act } from 'react-dom/test-utils';

@@ -1,7 +1,7 @@
 import { ConfigProviderWrap } from '@ant-design/pro-provider';
 import { isBrowser, useDocumentTitle, useMountMergeState } from '@ant-design/pro-utils';
 import { getMatchMenu } from '@umijs/route-utils';
-import { ConfigProvider, Layout } from 'antd';
+import { ConfigProvider, Layout } from 'antd-v4';
 import type { BreadcrumbProps as AntdBreadcrumbProps } from 'antd/lib/breadcrumb';
 import classNames from 'classnames';
 import Omit from 'omit.js';

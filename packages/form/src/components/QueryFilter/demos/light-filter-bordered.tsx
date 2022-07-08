@@ -7,7 +7,7 @@ import {
   ProFormSelect,
   ProFormTreeSelect,
 } from '@ant-design/pro-components';
-import { TreeSelect } from 'antd';
+import { TreeSelect } from 'antd-v4';
 
 const treeData = [
   {

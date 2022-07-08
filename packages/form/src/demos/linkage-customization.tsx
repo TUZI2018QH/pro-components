@@ -10,7 +10,7 @@ import {
   ProFormTextArea,
   StepsForm,
 } from '@ant-design/pro-components';
-import { Button, message } from 'antd';
+import { Button, message } from 'antd-v4';
 import { useState } from 'react';
 
 const waitTime = (time: number = 100) => {

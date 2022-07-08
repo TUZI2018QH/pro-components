@@ -1,4 +1,4 @@
-import { Card, Divider, Skeleton, Space } from 'antd';
+import { Card, Divider, Skeleton, Space } from 'antd-v4';
 import React from 'react';
 import useMediaQuery from 'use-media-antd-query';
 

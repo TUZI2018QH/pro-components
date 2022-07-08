@@ -1,4 +1,4 @@
-import type { InputProps } from 'antd';
+import type { InputProps } from 'antd-v4';
 import type { InputRef, PasswordProps } from 'antd/lib/input';
 import React from 'react';
 import type { ProFormFieldItemProps } from '../../interface';

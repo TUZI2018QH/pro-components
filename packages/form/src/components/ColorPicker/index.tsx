@@ -1,5 +1,5 @@
 ﻿import type { SketchPickerProps } from '@chenshuai2144/sketch-color';
-import type { PopoverProps } from 'antd';
+import type { PopoverProps } from 'antd-v4';
 import React from 'react';
 import type { ProFormFieldItemProps } from '../../interface';
 import ProFromField from '../Field';

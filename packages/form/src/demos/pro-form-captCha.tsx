@@ -1,6 +1,6 @@
 import { ProForm, ProFormCaptcha } from '@ant-design/pro-components';
 
-import { Button, message } from 'antd';
+import { Button, message } from 'antd-v4';
 import { useRef } from 'react';
 import type { CaptFieldRef } from '../components/Captcha';
 

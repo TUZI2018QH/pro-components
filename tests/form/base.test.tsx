@@ -13,7 +13,7 @@ import ProForm, {
 } from '@ant-design/pro-form';
 import '@testing-library/jest-dom';
 import { render as reactRender } from '@testing-library/react';
-import { Button, ConfigProvider, Input } from 'antd';
+import { Button, ConfigProvider, Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import moment from 'moment';
 import React, { useEffect, useRef } from 'react';

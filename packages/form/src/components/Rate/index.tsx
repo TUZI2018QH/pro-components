@@ -1,4 +1,4 @@
-import type { RateProps } from 'antd';
+import type { RateProps } from 'antd-v4';
 import React from 'react';
 import type { ProFormFieldItemProps } from '../../interface';
 import ProField from '../Field';

@@ -4,7 +4,7 @@
 
 import { AppstoreOutlined } from '@ant-design/icons';
 import { CheckCard } from '@ant-design/pro-components';
-import { Tag } from 'antd';
+import { Tag } from 'antd-v4';
 
 export default () => (
   <>

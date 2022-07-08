@@ -1,7 +1,7 @@
 import ProList, { BaseProList } from '@ant-design/pro-list';
 import '@testing-library/jest-dom';
 import { act, fireEvent, render as reactRender } from '@testing-library/react';
-import { Tag } from 'antd';
+import { Tag } from 'antd-v4';
 import { mount } from 'enzyme';
 import type { ReactText } from 'react';
 import { useState } from 'react';

@@ -9,7 +9,7 @@ import type {
   ProRenderFieldPropsType,
 } from '@ant-design/pro-utils';
 import { omitUndefined, pickProProps } from '@ant-design/pro-utils';
-import { Avatar } from 'antd';
+import { Avatar } from 'antd-v4';
 // import type {RangeInputNumberProps,ExtraProps as } from './components/DigitRange'
 import { noteOnce } from 'rc-util/lib/warning';
 import React, { useContext } from 'react';

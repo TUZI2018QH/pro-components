@@ -9,7 +9,7 @@ import {
   ProFormText,
   WaterMark,
 } from '@ant-design/pro-components';
-import { Divider } from 'antd';
+import { Divider } from 'antd-v4';
 
 export default () => {
   return (

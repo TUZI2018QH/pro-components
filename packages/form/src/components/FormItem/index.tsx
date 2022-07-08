@@ -4,8 +4,8 @@
   SearchTransformKeyFn,
 } from '@ant-design/pro-utils';
 import { isDropdownValueType, omitUndefined } from '@ant-design/pro-utils';
-import type { FormItemProps } from 'antd';
-import { ConfigProvider, Form } from 'antd';
+import type { FormItemProps } from 'antd-v4';
+import { ConfigProvider, Form } from 'antd-v4';
 import type { NamePath } from 'antd/lib/form/interface';
 import React, { useCallback, useContext, useEffect, useMemo } from 'react';
 import type { LightWrapperProps } from '../../BaseForm';

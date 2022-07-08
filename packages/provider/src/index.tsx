@@ -1,4 +1,4 @@
-import { ConfigProvider as AntdConfigProvider } from 'antd';
+import { ConfigProvider as AntdConfigProvider } from 'antd-v4';
 import zh_CN from 'antd/lib/locale/zh_CN';
 import React, { useContext, useEffect } from 'react';
 import { SWRConfig, useSWRConfig } from 'swr';

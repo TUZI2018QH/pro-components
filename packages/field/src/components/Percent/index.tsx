@@ -1,4 +1,4 @@
-import { InputNumber } from 'antd';
+import { InputNumber } from 'antd-v4';
 import toNumber from 'lodash.tonumber';
 import type { ReactNode } from 'react';
 import React, { Fragment, useMemo } from 'react';

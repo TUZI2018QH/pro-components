@@ -1,5 +1,5 @@
 import { PageContainer, ProCard, ProLayout } from '@ant-design/pro-components';
-import { Descriptions } from 'antd';
+import { Descriptions } from 'antd-v4';
 import defaultProps from './_defaultProps';
 
 const content = (

@@ -3,7 +3,7 @@ import { BasicLayout } from '@ant-design/pro-components';
 import { LoginForm, ProFormText } from '@ant-design/pro-form';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import en_US from 'antd/lib/locale/en_US';
 import { mount, render as enzymeRender } from 'enzyme';
 import React, { useState } from 'react';

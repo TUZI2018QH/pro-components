@@ -1,7 +1,7 @@
 ﻿/* eslint-disable react-hooks/exhaustive-deps */
 import { useIntl } from '@ant-design/pro-provider';
-import type { FormInstance } from 'antd';
-import { message } from 'antd';
+import type { FormInstance } from 'antd-v4';
+import { message } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import type React from 'react';
 import { useCallback, useMemo } from 'react';

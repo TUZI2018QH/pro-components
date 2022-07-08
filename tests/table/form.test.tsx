@@ -1,5 +1,5 @@
 import ProTable from '@ant-design/pro-table';
-import type { FormInstance } from 'antd';
+import type { FormInstance } from 'antd-v4';
 import { mount } from 'enzyme';
 import React from 'react';
 import { act } from 'react-dom/test-utils';

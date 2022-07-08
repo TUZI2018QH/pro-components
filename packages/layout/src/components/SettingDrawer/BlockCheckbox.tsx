@@ -1,5 +1,5 @@
 import { CheckOutlined } from '@ant-design/icons';
-import { Tooltip } from 'antd';
+import { Tooltip } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useMemo } from 'react';
 

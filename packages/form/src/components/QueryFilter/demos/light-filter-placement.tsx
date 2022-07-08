@@ -12,7 +12,7 @@ import {
   ProFormText,
   ProFormTimePicker,
 } from '@ant-design/pro-components';
-import { Radio } from 'antd';
+import { Radio } from 'antd-v4';
 import React from 'react';
 
 export default () => {

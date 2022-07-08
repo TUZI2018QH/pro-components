@@ -3,7 +3,7 @@
  */
 
 import { CheckCard } from '@ant-design/pro-components';
-import { Typography } from 'antd';
+import { Typography } from 'antd-v4';
 
 const { Paragraph } = Typography;
 

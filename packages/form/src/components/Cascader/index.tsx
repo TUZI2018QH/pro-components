@@ -1,4 +1,4 @@
-﻿import type { CascaderProps } from 'antd';
+﻿import type { CascaderProps } from 'antd-v4';
 import React from 'react';
 import type { ProFormFieldItemProps, ProFormFieldRemoteProps } from '../../interface';
 import ProField from '../Field';

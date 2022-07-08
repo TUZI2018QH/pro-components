@@ -2,7 +2,7 @@
 import { PlusOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable } from '@ant-design/pro-components';
-import { Button, Input, Select } from 'antd';
+import { Button, Input, Select } from 'antd-v4';
 import React, { useEffect, useState } from 'react';
 
 type GithubIssueItem = {

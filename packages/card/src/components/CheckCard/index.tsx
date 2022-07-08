@@ -1,5 +1,5 @@
 import { useMountMergeState } from '@ant-design/pro-utils';
-import { Avatar, ConfigProvider } from 'antd';
+import { Avatar, ConfigProvider } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext, useEffect, useMemo } from 'react';
 import type { CheckCardGroupProps } from './Group';

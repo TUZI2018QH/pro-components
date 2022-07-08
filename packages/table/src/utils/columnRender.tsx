@@ -7,7 +7,7 @@ import type {
   UseEditableUtilType,
 } from '@ant-design/pro-utils';
 import { genCopyable, isDeepEqualReact, isNil, LabelIconTip } from '@ant-design/pro-utils';
-import { Space } from 'antd';
+import { Space } from 'antd-v4';
 import get from 'rc-util/lib/utils/get';
 import React from 'react';
 import { isMergeCell } from '.';

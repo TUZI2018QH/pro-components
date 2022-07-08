@@ -3,7 +3,7 @@
   "version": "1.42.4",
   "description": "@ant-design/pro-utils",
   "keywords": [
-    "antd",
+    "antd-v4",
     "admin",
     "ant-design",
     "ant-design-pro"
@@ -43,7 +43,7 @@
     "swr": "^1.2.0"
   },
   "peerDependencies": {
-    "antd": ">=4.20.0",
+    "antd-v4": ">=4.20.0",
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
   },

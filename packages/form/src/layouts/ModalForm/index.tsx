@@ -1,5 +1,5 @@
-﻿import type { FormProps, ModalProps } from 'antd';
-import { ConfigProvider, Modal } from 'antd';
+﻿import type { FormProps, ModalProps } from 'antd-v4';
+import { ConfigProvider, Modal } from 'antd-v4';
 import merge from 'lodash.merge';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import { noteOnce } from 'rc-util/lib/warning';

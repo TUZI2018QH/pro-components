@@ -1,7 +1,7 @@
 import type { ActionType } from '@ant-design/pro-table';
 import ProTable, { TableDropdown } from '@ant-design/pro-table';
 import { fireEvent, render as ReactRender, screen } from '@testing-library/react';
-import { Button, Input, Select } from 'antd';
+import { Button, Input, Select } from 'antd-v4';
 import { mount, render } from 'enzyme';
 import React, { useRef } from 'react';
 import { act } from 'react-dom/test-utils';

@@ -1,6 +1,6 @@
 import { ColumnHeightOutlined } from '@ant-design/icons';
 import { useIntl } from '@ant-design/pro-provider';
-import { Dropdown, Menu, Tooltip } from 'antd';
+import { Dropdown, Menu, Tooltip } from 'antd-v4';
 import React from 'react';
 import Container from '../../container';
 

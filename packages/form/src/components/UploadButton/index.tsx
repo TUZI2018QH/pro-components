@@ -1,6 +1,6 @@
 import { UploadOutlined } from '@ant-design/icons';
-import type { ButtonProps, UploadProps } from 'antd';
-import { Button, Upload } from 'antd';
+import type { ButtonProps, UploadProps } from 'antd-v4';
+import { Button, Upload } from 'antd-v4';
 import React, { useMemo } from 'react';
 import { createField } from '../../BaseForm/createField';
 import type { ProFormFieldItemProps } from '../../interface';

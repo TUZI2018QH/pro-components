@@ -1,5 +1,5 @@
 import { ProForm, ProFormDependency, ProFormSelect, ProFormText } from '@ant-design/pro-components';
-import { Form, message } from 'antd';
+import { Form, message } from 'antd-v4';
 
 const waitTime = (time: number = 100) => {
   return new Promise((resolve) => {

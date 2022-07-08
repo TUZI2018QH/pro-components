@@ -1,6 +1,6 @@
 import { FieldLabel } from '@ant-design/pro-utils';
-import type { RadioGroupProps, TreeSelectProps } from 'antd';
-import { ConfigProvider, Spin, TreeSelect } from 'antd';
+import type { RadioGroupProps, TreeSelectProps } from 'antd-v4';
+import { ConfigProvider, Spin, TreeSelect } from 'antd-v4';
 import classNames from 'classnames';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useContext, useImperativeHandle, useMemo, useRef, useState } from 'react';

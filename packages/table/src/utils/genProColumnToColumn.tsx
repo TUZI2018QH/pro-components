@@ -2,8 +2,8 @@
 import { proFieldParsingValueEnumToArray } from '@ant-design/pro-field';
 import type { ProSchemaComponentTypes, UseEditableUtilType } from '@ant-design/pro-utils';
 import { omitBoolean, omitUndefinedAndEmptyArr, runFunction } from '@ant-design/pro-utils';
-import type { TableColumnType, TableProps } from 'antd';
-import { Table } from 'antd';
+import type { TableColumnType, TableProps } from 'antd-v4';
+import { Table } from 'antd-v4';
 import type { useContainer } from '../container';
 import type { ProColumnGroupType, ProColumns } from '../typing';
 import { columnRender, defaultOnFilter, renderColumnsTitle } from './columnRender';

@@ -1,5 +1,5 @@
 import { ProList } from '@ant-design/pro-components';
-import { Space, Tag } from 'antd';
+import { Space, Tag } from 'antd-v4';
 import { useState } from 'react';
 
 const defaultData = [

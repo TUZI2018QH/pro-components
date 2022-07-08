@@ -1,5 +1,5 @@
 import { FieldLabel, parseValueToMoment } from '@ant-design/pro-utils';
-import { ConfigProvider, DatePicker, TimePicker } from 'antd';
+import { ConfigProvider, DatePicker, TimePicker } from 'antd-v4';
 import moment from 'moment';
 import React, { useContext, useState } from 'react';
 import type { ProFieldFC, ProFieldLightProps } from '../../index';

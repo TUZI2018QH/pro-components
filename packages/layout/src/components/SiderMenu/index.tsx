@@ -1,5 +1,5 @@
 import { getFlatMenus } from '@umijs/route-utils';
-import { Drawer } from 'antd';
+import { Drawer } from 'antd-v4';
 import classNames from 'classnames';
 import Omit from 'omit.js';
 import React, { useEffect } from 'react';

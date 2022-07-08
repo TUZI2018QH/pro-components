@@ -1,6 +1,6 @@
 import { runFunction } from '@ant-design/pro-utils';
-import type { CheckboxProps } from 'antd';
-import { Checkbox } from 'antd';
+import type { CheckboxProps } from 'antd-v4';
+import { Checkbox } from 'antd-v4';
 import type { CheckboxGroupProps } from 'antd/lib/checkbox';
 import React from 'react';
 import { createField } from '../../BaseForm/createField';

@@ -1,7 +1,7 @@
 import { ConfigProviderWrap, useIntl } from '@ant-design/pro-provider';
 import { merge, useRefFunction } from '@ant-design/pro-utils';
-import type { FormInstance, StepsProps } from 'antd';
-import { Button, Col, ConfigProvider, Form, Row, Space, Steps } from 'antd';
+import type { FormInstance, StepsProps } from 'antd-v4';
+import { Button, Col, ConfigProvider, Form, Row, Space, Steps } from 'antd-v4';
 import type { FormProviderProps } from 'antd/lib/form/context';
 import classNames from 'classnames';
 import toArray from 'rc-util/lib/Children/toArray';

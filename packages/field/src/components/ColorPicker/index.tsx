@@ -1,7 +1,7 @@
 ﻿import type { SketchPickerProps } from '@chenshuai2144/sketch-color';
 import { SketchPicker } from '@chenshuai2144/sketch-color';
-import type { PopoverProps } from 'antd';
-import { ConfigProvider, Popover } from 'antd';
+import type { PopoverProps } from 'antd-v4';
+import { ConfigProvider, Popover } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useContext } from 'react';
 import type { ProFieldFC } from '../../index';

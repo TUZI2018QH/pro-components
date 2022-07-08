@@ -1,7 +1,7 @@
 ﻿import type { ProFormColumnsType, ProFormLayoutType } from '@ant-design/pro-form';
 import { BetaSchemaForm } from '@ant-design/pro-form';
-import type { FormInstance } from 'antd';
-import { Input } from 'antd';
+import type { FormInstance } from 'antd-v4';
+import { Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import React, { createRef } from 'react';
 import { act } from 'react-dom/test-utils';

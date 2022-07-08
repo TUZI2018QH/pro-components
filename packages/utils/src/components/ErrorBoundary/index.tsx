@@ -1,4 +1,4 @@
-import { Result } from 'antd';
+import { Result } from 'antd-v4';
 import type { ErrorInfo } from 'react';
 import React from 'react';
 

@@ -1,5 +1,5 @@
 import type { ProSchemaValueType, SearchTransformKeyFn } from '@ant-design/pro-utils';
-import type { FormItemProps } from 'antd';
+import type { FormItemProps } from 'antd-v4';
 import type { NamePath } from 'antd/lib/form/interface';
 import React from 'react';
 import type { CommonFormProps } from './BaseForm';

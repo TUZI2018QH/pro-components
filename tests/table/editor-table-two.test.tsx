@@ -2,7 +2,7 @@ import ProForm, { ProFormText } from '@ant-design/pro-form';
 import type { ActionType, ProColumns, TableRowEditable } from '@ant-design/pro-table';
 import { EditableProTable } from '@ant-design/pro-table';
 import { act, fireEvent, render } from '@testing-library/react';
-import { Button, Input, InputNumber } from 'antd';
+import { Button, Input, InputNumber } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useRef } from 'react';
 import { waitForComponentToPaint, waitTime } from '../util';

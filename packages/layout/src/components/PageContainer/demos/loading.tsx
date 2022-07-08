@@ -1,5 +1,5 @@
 import { PageContainer } from '@ant-design/pro-components';
-import { Card } from 'antd';
+import { Card } from 'antd-v4';
 import React, { useEffect, useMemo, useState } from 'react';
 
 export default () => {

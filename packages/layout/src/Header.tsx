@@ -1,4 +1,4 @@
-import { Layout } from 'antd';
+import { Layout } from 'antd-v4';
 import classNames from 'classnames';
 import React, { Component } from 'react';
 import type { GlobalHeaderProps } from './components/GlobalHeader';

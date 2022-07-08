@@ -1,5 +1,5 @@
 import { useIntl } from '@ant-design/pro-provider';
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import React, { useContext, useMemo } from 'react';
 import type { ProFormProps } from '../ProForm';
 import { ProForm } from '../ProForm';

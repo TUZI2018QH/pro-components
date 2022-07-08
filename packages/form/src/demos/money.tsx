@@ -1,6 +1,6 @@
 import type { ProFormInstance } from '@ant-design/pro-components';
 import { ProForm, ProFormMoney } from '@ant-design/pro-components';
-import { message } from 'antd';
+import { message } from 'antd-v4';
 import { useRef } from 'react';
 
 const waitTime = (time: number = 100) => {

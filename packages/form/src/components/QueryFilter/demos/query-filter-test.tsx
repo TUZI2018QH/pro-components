@@ -1,5 +1,5 @@
 import { ProForm, ProFormText, QueryFilter } from '@ant-design/pro-components';
-import { Input } from 'antd';
+import { Input } from 'antd-v4';
 
 export default () => {
   return (

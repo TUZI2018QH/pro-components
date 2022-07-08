@@ -9,7 +9,7 @@ import ProForm, {
 } from '@ant-design/pro-form';
 import '@testing-library/jest-dom';
 import { fireEvent, render as reactRender, render } from '@testing-library/react';
-import { Button, Form } from 'antd';
+import { Button, Form } from 'antd-v4';
 import type { NamePath } from 'antd/es/form/interface';
 import { mount } from 'enzyme';
 import _ from 'lodash';

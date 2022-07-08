@@ -1,4 +1,4 @@
-import { List, Switch } from 'antd';
+import { List, Switch } from 'antd-v4';
 import React from 'react';
 import type { ProSettings } from '../../defaultSettings';
 import { getFormatMessage } from './index';

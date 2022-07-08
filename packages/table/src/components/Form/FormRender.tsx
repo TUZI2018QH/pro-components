@@ -1,8 +1,8 @@
 ﻿import type { BaseQueryFilterProps, ProFormProps } from '@ant-design/pro-form';
 import { BetaSchemaForm } from '@ant-design/pro-form';
 import type { ProSchemaComponentTypes } from '@ant-design/pro-utils';
-import type { FormInstance, FormItemProps } from 'antd';
-import { ConfigProvider, Table } from 'antd';
+import type { FormInstance, FormItemProps } from 'antd-v4';
+import { ConfigProvider, Table } from 'antd-v4';
 import classNames from 'classnames';
 import omit from 'omit.js';
 import React, { useContext, useMemo } from 'react';

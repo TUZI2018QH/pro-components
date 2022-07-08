@@ -1,7 +1,7 @@
 import { QuestionCircleOutlined } from '@ant-design/icons';
 import type { ProColumns } from '@ant-design/pro-components';
 import { ProTable, TableDropdown } from '@ant-design/pro-components';
-import { Tooltip } from 'antd';
+import { Tooltip } from 'antd-v4';
 import moment from 'moment';
 
 export type TableListItem = {

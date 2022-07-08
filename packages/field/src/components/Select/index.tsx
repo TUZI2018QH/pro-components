@@ -12,8 +12,8 @@ import {
   useDeepCompareEffect,
   useMountMergeState,
 } from '@ant-design/pro-utils';
-import type { SelectProps } from 'antd';
-import { ConfigProvider, Space, Spin } from 'antd';
+import type { SelectProps } from 'antd-v4';
+import { ConfigProvider, Space, Spin } from 'antd-v4';
 import type { ReactNode } from 'react';
 import React, {
   useCallback,

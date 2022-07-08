@@ -1,6 +1,6 @@
 ﻿import type { ProFormColumnsType, ProFormLayoutType } from '@ant-design/pro-components';
 import { BetaSchemaForm, ProFormSelect } from '@ant-design/pro-components';
-import { Alert, DatePicker, Space } from 'antd';
+import { Alert, DatePicker, Space } from 'antd-v4';
 import moment from 'moment';
 import { useState } from 'react';
 

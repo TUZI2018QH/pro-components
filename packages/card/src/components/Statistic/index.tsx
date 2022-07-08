@@ -1,5 +1,5 @@
 import { QuestionCircleOutlined } from '@ant-design/icons';
-import { Badge, ConfigProvider, Statistic as AntdStatistic, Tooltip } from 'antd';
+import { Badge, ConfigProvider, Statistic as AntdStatistic, Tooltip } from 'antd-v4';
 import type { BadgeProps } from 'antd/lib/badge';
 import type { StatisticProps as AntdStatisticProps } from 'antd/lib/statistic/Statistic';
 import classNames from 'classnames';

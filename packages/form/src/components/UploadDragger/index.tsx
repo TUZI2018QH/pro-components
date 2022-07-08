@@ -1,5 +1,5 @@
 import { InboxOutlined } from '@ant-design/icons';
-import { ConfigProvider, Upload } from 'antd';
+import { ConfigProvider, Upload } from 'antd-v4';
 import type { DraggerProps, UploadProps } from 'antd/lib/upload';
 import React, { useContext } from 'react';
 import { createField } from '../../BaseForm/createField';

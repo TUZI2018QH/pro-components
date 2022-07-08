@@ -4,7 +4,7 @@
 
 import { EllipsisOutlined } from '@ant-design/icons';
 import { CheckCard } from '@ant-design/pro-components';
-import { Dropdown, Menu, message } from 'antd';
+import { Dropdown, Menu, message } from 'antd-v4';
 
 export default () => (
   <CheckCard

@@ -1,5 +1,5 @@
 ﻿import dumiContext from '@umijs/preset-dumi/lib/theme/context';
-import { ConfigProvider, Switch } from 'antd';
+import { ConfigProvider, Switch } from 'antd-v4';
 import zhCN from 'antd/es/locale/zh_CN';
 import Layout from 'dumi-theme-default/src/layout';
 import moment from 'moment';

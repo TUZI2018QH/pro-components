@@ -1,4 +1,4 @@
-import { ConfigProvider, Dropdown } from 'antd';
+import { ConfigProvider, Dropdown } from 'antd-v4';
 import React, { useContext } from 'react';
 import type { DropdownFooterProps } from '../DropdownFooter';
 import Footer from '../DropdownFooter';

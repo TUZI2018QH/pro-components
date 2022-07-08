@@ -1,5 +1,5 @@
 ﻿import { ProForm, ProFormCheckbox, ProFormRadio, ProFormText } from '@ant-design/pro-components';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 
 const layout = {
   labelCol: { span: 8 },

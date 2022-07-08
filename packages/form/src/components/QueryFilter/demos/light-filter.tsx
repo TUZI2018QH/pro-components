@@ -15,7 +15,7 @@ import {
   ProFormTimePicker,
   ProFormTreeSelect,
 } from '@ant-design/pro-components';
-import { Radio, TreeSelect } from 'antd';
+import { Radio, TreeSelect } from 'antd-v4';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import moment from 'moment';
 import React from 'react';

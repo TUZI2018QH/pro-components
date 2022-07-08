@@ -1,6 +1,6 @@
 import { DownOutlined, UpOutlined } from '@ant-design/icons';
 import { ProForm, ProFormDatePicker, ProFormText, QueryFilter } from '@ant-design/pro-components';
-import { Card, Input, Tabs } from 'antd';
+import { Card, Input, Tabs } from 'antd-v4';
 import React, { useState } from 'react';
 import styles from './search-filter.module.less';
 

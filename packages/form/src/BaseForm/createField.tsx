@@ -4,7 +4,7 @@
   pickProFormItemProps,
   usePrevious,
 } from '@ant-design/pro-utils';
-import type { FormItemProps } from 'antd';
+import type { FormItemProps } from 'antd-v4';
 import classnames from 'classnames';
 import { FieldContext as RcFieldContext } from 'rc-field-form';
 import { noteOnce } from 'rc-util/lib/warning';

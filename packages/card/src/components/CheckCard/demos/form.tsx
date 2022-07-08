@@ -4,7 +4,7 @@
 
 /* eslint-disable no-console */
 import { CheckCard } from '@ant-design/pro-components';
-import { Avatar, Button, Form } from 'antd';
+import { Avatar, Button, Form } from 'antd-v4';
 
 export default () => {
   const [form] = Form.useForm();

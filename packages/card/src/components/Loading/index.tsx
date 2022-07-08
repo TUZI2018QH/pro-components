@@ -1,4 +1,4 @@
-import { Col, Row } from 'antd';
+import { Col, Row } from 'antd-v4';
 import React from 'react';
 import './index.less';
 

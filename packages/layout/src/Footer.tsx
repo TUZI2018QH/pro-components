@@ -1,5 +1,5 @@
 import { CopyrightOutlined } from '@ant-design/icons';
-import { Layout } from 'antd';
+import { Layout } from 'antd-v4';
 import type { CSSProperties } from 'react';
 import React, { Fragment } from 'react';
 import GlobalFooter from './components/GlobalFooter';

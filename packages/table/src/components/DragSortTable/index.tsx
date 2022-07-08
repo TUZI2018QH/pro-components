@@ -1,6 +1,6 @@
 import { MenuOutlined } from '@ant-design/icons';
 import type { ParamsType } from '@ant-design/pro-provider';
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import React, { useCallback, useContext, useMemo, useRef } from 'react';
 import { SortableHandle } from 'react-sortable-hoc';
 import ProTable from '../../Table';

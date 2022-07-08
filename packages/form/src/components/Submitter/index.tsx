@@ -1,6 +1,6 @@
 import { useIntl } from '@ant-design/pro-provider';
-import type { ButtonProps, FormInstance } from 'antd';
-import { Button, Space } from 'antd';
+import type { ButtonProps, FormInstance } from 'antd-v4';
+import { Button, Space } from 'antd-v4';
 import omit from 'omit.js';
 import React from 'react';
 

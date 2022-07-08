@@ -3,7 +3,7 @@
  */
 
 import { CheckCard } from '@ant-design/pro-components';
-import { Radio } from 'antd';
+import { Radio } from 'antd-v4';
 import { useState } from 'react';
 
 export default () => {

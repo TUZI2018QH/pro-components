@@ -1,4 +1,4 @@
-import { ConfigProvider, Tabs } from 'antd';
+import { ConfigProvider, Tabs } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext } from 'react';
 import type { ProCardTabPaneProps } from '../../type';

@@ -1,8 +1,8 @@
 import type { ProCardProps } from '@ant-design/pro-card';
 import type { ActionType, ProColumnType, ProTableProps } from '@ant-design/pro-table';
 import ProTable from '@ant-design/pro-table';
-import type { ListProps, PaginationProps } from 'antd';
-import { ConfigProvider } from 'antd';
+import type { ListProps, PaginationProps } from 'antd-v4';
+import { ConfigProvider } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import classNames from 'classnames';
 import React, { useContext, useImperativeHandle, useMemo, useRef } from 'react';

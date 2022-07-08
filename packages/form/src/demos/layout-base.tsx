@@ -12,7 +12,7 @@ import {
   ProFormTextArea,
   ProFormUploadButton,
 } from '@ant-design/pro-components';
-import { Card } from 'antd';
+import { Card } from 'antd-v4';
 
 export default () => {
   return (

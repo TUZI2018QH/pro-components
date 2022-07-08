@@ -1,5 +1,5 @@
 import ProForm, { ProFormMoney } from '@ant-design/pro-form';
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import enGBIntl from 'antd/lib/locale/en_GB';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';

@@ -3,7 +3,7 @@
   "version": "1.21.71",
   "description": "🏆 Use Ant Design List like a Pro!",
   "keywords": [
-    "antd",
+    "antd-v4",
     "admin",
     "ant-design",
     "ant-design-pro"
@@ -45,7 +45,7 @@
     "use-media-antd-query": "^1.1.0"
   },
   "peerDependencies": {
-    "antd": ">=4.20.0",
+    "antd-v4": ">=4.20.0",
     "react": ">=16.9.0"
   },
   "publishConfig": {

@@ -1,4 +1,4 @@
-import { Divider } from 'antd';
+import { Divider } from 'antd-v4';
 import type { ProSchemaRenderValueTypeFunction } from '../typing';
 
 export const divider: ProSchemaRenderValueTypeFunction = (item) => {

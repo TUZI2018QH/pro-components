@@ -1,7 +1,7 @@
 import { useIntl } from '@ant-design/pro-provider';
 import { LabelIconTip } from '@ant-design/pro-utils';
-import type { TabPaneProps } from 'antd';
-import { ConfigProvider, Input, Space, Tabs, Tooltip } from 'antd';
+import type { TabPaneProps } from 'antd-v4';
+import { ConfigProvider, Input, Space, Tabs, Tooltip } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { SearchProps } from 'antd/lib/input';
 import classNames from 'classnames';

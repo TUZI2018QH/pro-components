@@ -5,7 +5,7 @@ import type {
 import Descriptions from '@ant-design/pro-descriptions';
 import type { RowEditableConfig } from '@ant-design/pro-utils';
 import { act, fireEvent, render } from '@testing-library/react';
-import { Form, InputNumber } from 'antd';
+import { Form, InputNumber } from 'antd-v4';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useRef } from 'react';
 import { waitForComponentToPaint } from '../util';

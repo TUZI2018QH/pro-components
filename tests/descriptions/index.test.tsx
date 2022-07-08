@@ -2,7 +2,7 @@ import ProDescriptions from '@ant-design/pro-descriptions';
 import type { ProCoreActionType } from '@ant-design/pro-utils';
 import '@testing-library/jest-dom';
 import { render as reactRender } from '@testing-library/react';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import { mount } from 'enzyme';
 import { useRef } from 'react';
 import { act } from 'react-dom/test-utils';

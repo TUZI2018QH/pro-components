@@ -46,7 +46,7 @@
     "@types/react-color": "^3.0.4"
   },
   "peerDependencies": {
-    "antd": ">=4.20.0",
+    "antd-v4": ">=4.20.0",
     "react": ">=16.9.0"
   }
 }

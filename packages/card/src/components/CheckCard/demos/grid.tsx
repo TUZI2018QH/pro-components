@@ -3,7 +3,7 @@
  */
 
 import { CheckCard } from '@ant-design/pro-components';
-import { Col, Row } from 'antd';
+import { Col, Row } from 'antd-v4';
 
 export default () => (
   <CheckCard.Group style={{ width: '100%' }} size="small">

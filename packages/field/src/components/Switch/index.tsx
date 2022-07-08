@@ -1,6 +1,6 @@
 import { useIntl } from '@ant-design/pro-provider';
-import type { SwitchProps } from 'antd';
-import { Switch } from 'antd';
+import type { SwitchProps } from 'antd-v4';
+import { Switch } from 'antd-v4';
 import Omit from 'omit.js';
 import React, { useMemo } from 'react';
 import type { ProFieldFC } from '../../index';

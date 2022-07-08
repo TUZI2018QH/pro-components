@@ -1,7 +1,7 @@
 import type { ProCardProps } from '@ant-design/pro-card';
 import type { ActionType } from '@ant-design/pro-table';
-import type { ListProps, TableColumnType, TableProps } from 'antd';
-import { ConfigProvider, List } from 'antd';
+import type { ListProps, TableColumnType, TableProps } from 'antd-v4';
+import { ConfigProvider, List } from 'antd-v4';
 import useLazyKVMap from 'antd/lib/table/hooks/useLazyKVMap';
 import usePagination from 'antd/lib/table/hooks/usePagination';
 import useSelection from 'antd/lib/table/hooks/useSelection';

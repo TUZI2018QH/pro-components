@@ -17,7 +17,7 @@ import {
   useDebounceValue,
 } from '@ant-design/pro-utils';
 import { act, fireEvent, render } from '@testing-library/react';
-import { Form, Input } from 'antd';
+import { Form, Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import type { Moment } from 'moment';
 import moment from 'moment';

@@ -6,7 +6,7 @@ import {
   ProFormList,
   ProFormText,
 } from '@ant-design/pro-components';
-import { Button, message, Space } from 'antd';
+import { Button, message, Space } from 'antd-v4';
 import { useRef } from 'react';
 
 const Demo = () => {

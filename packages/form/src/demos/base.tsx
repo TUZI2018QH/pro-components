@@ -9,7 +9,7 @@ import {
   ProFormText,
   ProFormTreeSelect,
 } from '@ant-design/pro-components';
-import { message, TreeSelect } from 'antd';
+import { message, TreeSelect } from 'antd-v4';
 import { useRef } from 'react';
 
 const waitTime = (time: number = 100) => {

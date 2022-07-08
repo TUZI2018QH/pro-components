@@ -1,5 +1,5 @@
 import { ProList } from '@ant-design/pro-components';
-import { Badge, Button } from 'antd';
+import { Badge, Button } from 'antd-v4';
 import React, { useState } from 'react';
 
 const dataSource = [

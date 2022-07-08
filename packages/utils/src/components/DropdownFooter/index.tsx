@@ -1,5 +1,5 @@
 import { useIntl } from '@ant-design/pro-provider';
-import { Button, ConfigProvider } from 'antd';
+import { Button, ConfigProvider } from 'antd-v4';
 import React, { useContext } from 'react';
 import './index.less';
 

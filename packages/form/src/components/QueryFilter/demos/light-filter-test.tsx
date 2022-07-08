@@ -6,7 +6,7 @@ import {
   ProFormSlider,
   ProFormText,
 } from '@ant-design/pro-components';
-import { Radio } from 'antd';
+import { Radio } from 'antd-v4';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import moment from 'moment';
 import React from 'react';

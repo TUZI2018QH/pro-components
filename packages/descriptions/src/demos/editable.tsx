@@ -1,5 +1,5 @@
 import { ProDescriptions } from '@ant-design/pro-components';
-import { Input, Tooltip } from 'antd';
+import { Input, Tooltip } from 'antd-v4';
 import { useRef } from 'react';
 
 export default () => {

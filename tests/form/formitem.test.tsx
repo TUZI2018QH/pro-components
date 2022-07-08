@@ -1,5 +1,5 @@
 import ProForm, { ProFormText } from '@ant-design/pro-form';
-import { Input } from 'antd';
+import { Input } from 'antd-v4';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';
 import { waitForComponentToPaint } from '../util';

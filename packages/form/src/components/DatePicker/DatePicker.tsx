@@ -1,4 +1,4 @@
-import type { DatePickerProps } from 'antd';
+import type { DatePickerProps } from 'antd-v4';
 import React, { useContext } from 'react';
 import FieldContext from '../../FieldContext';
 import type { ProFormFieldItemProps } from '../../interface';

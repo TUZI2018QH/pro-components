@@ -18,8 +18,8 @@ import {
   LabelIconTip,
   useEditableMap,
 } from '@ant-design/pro-utils';
-import type { DescriptionsProps, FormInstance, FormProps } from 'antd';
-import { ConfigProvider, Descriptions, Form, Space } from 'antd';
+import type { DescriptionsProps, FormInstance, FormProps } from 'antd-v4';
+import { ConfigProvider, Descriptions, Form, Space } from 'antd-v4';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import toArray from 'rc-util/lib/Children/toArray';
 import get from 'rc-util/lib/utils/get';

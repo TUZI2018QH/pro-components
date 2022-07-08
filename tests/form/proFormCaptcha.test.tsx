@@ -1,5 +1,5 @@
 import ProForm, { ProFormCaptcha } from '@ant-design/pro-form';
-import { Button, message } from 'antd';
+import { Button, message } from 'antd-v4';
 import { mount } from 'enzyme';
 import React from 'react';
 import { act } from 'react-dom/test-utils';

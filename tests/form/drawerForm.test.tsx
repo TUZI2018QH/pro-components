@@ -1,7 +1,7 @@
 ﻿import { DrawerForm, ProFormText } from '@ant-design/pro-form';
 import '@testing-library/jest-dom';
 import { fireEvent, render } from '@testing-library/react';
-import { Button } from 'antd';
+import { Button } from 'antd-v4';
 import React from 'react';
 import { act } from 'react-dom/test-utils';
 import { waitForComponentToPaint } from '../util';

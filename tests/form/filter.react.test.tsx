@@ -7,7 +7,7 @@ import {
 } from '@ant-design/pro-form';
 import '@testing-library/jest-dom';
 import { cleanup, fireEvent, render } from '@testing-library/react';
-import { TreeSelect } from 'antd';
+import { TreeSelect } from 'antd-v4';
 import { _el, _rs } from 'rc-resize-observer/lib/utils/observerUtil';
 import { act } from 'react-dom/test-utils';
 import { waitTime } from '../util';

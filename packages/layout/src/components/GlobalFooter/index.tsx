@@ -1,4 +1,4 @@
-import { ConfigProvider } from 'antd';
+import { ConfigProvider } from 'antd-v4';
 import classNames from 'classnames';
 import React, { useContext } from 'react';
 import type { WithFalse } from '../../typings';

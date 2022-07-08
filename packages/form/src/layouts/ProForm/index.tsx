@@ -1,5 +1,5 @@
-import type { FormProps } from 'antd';
-import { Form } from 'antd';
+import type { FormProps } from 'antd-v4';
+import { Form } from 'antd-v4';
 import React from 'react';
 import type { CommonFormProps } from '../../BaseForm';
 import { BaseForm } from '../../BaseForm';
